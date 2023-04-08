@@ -1,5 +1,5 @@
 
-![GitHub stats]([https://github-readme-stats.vercel.app/api?username=dayo05&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=jason-li-831202&show_icons=true&theme=radical))
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jason-li-831202&show_icons=true&theme=radical)
 
 ![TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=jason-li-831202&langs_count=10&layout=compact&theme=radical")
 
