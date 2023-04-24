@@ -1,8 +1,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jason-li-831202&show_icons=true&theme=radical)
 
-![TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=jason-li-831202&langs_count=10&layout=compact&theme=radical")
-
+![TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=jason-li-831202&langs_count=10&layout=compact&theme=radical)
 
 <!--
 **jason-li-831202/jason-li-831202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
