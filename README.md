@@ -9,8 +9,11 @@
 <a href="https://www.youtube.com/channel/UC7ooIp2M5HSiYyKaJNW84yw" target="blank"><img align="center" src="https://img.shields.io/youtube/channel/views/UC7ooIp2M5HSiYyKaJNW84yw?label=YouTube%20Views&style=plastic" alt="YouTube Channel Views" /></a>
 </p>
 
-![GitHub stats](https://github-readme-stats.zohan.tech/api?username=jason-li-831202&show_icons=true&theme=radical)
+<div align=left> 
+  <img src="https://github-stats-alpha.vercel.app/api?username=jason-li-831202&cc=141321&tc=AAFFF9&ic=EFD045&bc=ffffff">
+</div>
 
+<!-- ![GitHub stats](https://github-readme-stats.zohan.tech/api?username=jason-li-831202&show_icons=true&theme=radical) -->
 ![TopLanguage](https://github-readme-stats.zohan.tech/api/top-langs/?username=jason-li-831202&langs_count=10&layout=compact&theme=radical)
 
 <!--
