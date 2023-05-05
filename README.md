@@ -3,6 +3,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+<p align="center">
+<a href="https://github.com/jason-li-831202" target="blank"><img align="center" src="https://img.shields.io/github/followers/jason-li-831202?label=GitHub%20Followers&&style=plastic" alt="GitHub Followers" /></a>
+<a href="https://www.youtube.com/channel/UC7ooIp2M5HSiYyKaJNW84yw" target="blank"><img align="center" src="https://img.shields.io/youtube/channel/subscribers/UC7ooIp2M5HSiYyKaJNW84yw?label=YouTube%20Subscribers&style=plastic" alt="YouTube Channel Subscribers" /></a>
+<a href="https://www.youtube.com/channel/UC7ooIp2M5HSiYyKaJNW84yw" target="blank"><img align="center" src="https://img.shields.io/youtube/channel/views/UC7ooIp2M5HSiYyKaJNW84yw?label=YouTube%20Views&style=plastic" alt="YouTube Channel Views" /></a>
+</p>
+
 ![GitHub stats](https://github-readme-stats.zohan.tech/api?username=jason-li-831202&show_icons=true&theme=radical)
 
 ![TopLanguage](https://github-readme-stats.zohan.tech/api/top-langs/?username=jason-li-831202&langs_count=10&layout=compact&theme=radical)
