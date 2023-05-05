@@ -1,3 +1,7 @@
+<h2 align="center">
+  Kai-Chun,Li Home !
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 ![GitHub stats](https://github-readme-stats.zohan.tech/api?username=jason-li-831202&show_icons=true&theme=radical)
 
