@@ -22,7 +22,7 @@
 ![TopLanguage](https://github-readme-stats.zohan.tech/api/top-langs/?username=jason-li-831202&langs_count=10&layout=compact&theme=radical)
 
 <hr>
-<h3 align="center">VISITOR COUNT :  <img align="center" src="https://profile-counter.glitch.me/jason-li-831202/count.svg"/></h3>
+<h3 align="center">VISITOR COUNT :  <img align="center" src="https://profile-counter.glitch.me/jason-li-831202/count.svg"/><sub>- Starting from 2023/05/11. -</sub></h3>
 
 <!--
 **jason-li-831202/jason-li-831202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
